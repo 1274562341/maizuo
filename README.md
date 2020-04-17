@@ -31,15 +31,4 @@ swiper组件有一点小问题   没有搞明白  自己估计是css没有写好
 运行npm run build 后生成的dist文件夹  很欢喜  直接打开index.html文件夹  发现白屏
 网上各种找资料  各种的修改vue.config.js文件 到最后直接打开还是白屏  右键查看  发现直接在c盘中找文件
 找得到才怪   于是在哔哩哔哩中看了一个vue cli 3 打包后白屏的视频  看见配置一个http服务器的时候恍然大悟
-我电脑中的phpstudy搞忘记 于是开启服务 dist文件夹拖进去 运行 完美运行
-
-
-
-
-
-# vscode-demo
-# maizuo
-# maizuo
-# maizuo
-# vscode-demo
-# maizuo
+我电脑中的phpstudy搞忘记 于是开启服务 dist文件夹拖进去 运行 完美运行.
